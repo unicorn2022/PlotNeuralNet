@@ -9,3 +9,4 @@ del /q *.vscodeLog
 del /q *.tex
 
 start %1.pdf
+cls
